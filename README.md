@@ -1,35 +1,31 @@
+
 # Merhaba, ben Talha Durmaz!
 
-Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim her geçen gün artıyor. Çeşitli projelerde yer aldım ve bu projelerde edindiğim tecrübelerle kendimi geliştirmeye devam ediyorum. Şu anda **web geliştirme**, **yapay zeka**, **veri analizi** ve **yazılım mühendisliği** alanlarında aktif olarak çalışıyorum.
+Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim her geçen gün artıyor. Çeşitli projelerde yer aldım ve bu projelerde edindiğim tecrübelerle kendimi geliştirmeye devam ediyorum. Şu anda **SQL veri tabanı**, **Unity oyun geliştirme**, **mobil uygulama geliştirme** ve **laptop uygulamaları geliştirme** alanlarında aktif olarak çalışıyorum.
 
 ## 🔧 Teknolojiler & Araçlar
 
-- **Programlama Dilleri**: Python, JavaScript, Java, C++
-- **Web Teknolojileri**: HTML, CSS, React, Node.js, Express.js
-- **Veritabanları**: MySQL, MongoDB
+- **Programlama Dilleri**: Python, JavaScript, Java, C#
+- **Web Teknolojileri**: HTML, CSS, React, Node.js
+- **Veritabanları**: MySQL, MongoDB, PostgreSQL
+- **Oyun Geliştirme**: Unity
+- **Mobil Uygulama Geliştirme**: React Native, Flutter
+- **Laptop Uygulama Geliştirme**: Electron, JavaFX
 - **Araçlar**: Git, Docker, Jenkins, VS Code
-- **Yapay Zeka & Veri Analizi**: TensorFlow, Pandas, NumPy, Scikit-learn
 
 ## 💼 İlgilendiğim Alanlar
 
-- **Web Geliştirme**: Dinamik ve etkileşimli web uygulamaları geliştirme konusunda tutkuluyum.
-- **Yapay Zeka**: Makine öğrenmesi ve yapay zeka projelerine büyük ilgi duyuyorum.
-- **Veri Bilimi**: Veri analizi ve görselleştirme üzerinde çalışarak iş süreçlerine değer katmaya odaklanıyorum.
-- **Açık Kaynak Katkıları**: Açık kaynak projelerinde katkı sağlamak benim için heyecan verici bir fırsat.
-
-## 📈 Projelerim
-
-1. [Proje 1](https://github.com/talhadrz/proje-1): Kısa açıklama - Bu projede ... yaptım.
-2. [Proje 2](https://github.com/talhadrz/proje-2): Kısa açıklama - Bu projede ... yaptım.
-3. [Proje 3](https://github.com/talhadrz/proje-3): Kısa açıklama - Bu projede ... yaptım.
+- **SQL Veri Tabanı**: Veri analizi ve veri yönetimi konusunda deneyim kazandım ve SQL ile projeler geliştirmeyi seviyorum.
+- **Unity Oyun Geliştirme**: Oyun geliştirme süreçlerine ilgi duyuyor ve Unity ile 2D/3D oyunlar yapmayı hedefliyorum.
+- **Mobil Uygulama Geliştirme**: Mobil uygulamalar geliştirme konusunda React Native ve Flutter gibi teknolojileri kullanarak dinamik uygulamalar tasarlıyorum.
+- **Laptop Uygulama Geliştirme**: Elektron ve JavaFX gibi platformlarda masaüstü uygulamaları geliştirmeye yönelik projeler üzerinde çalışıyorum.
 
 ## 📬 İletişim
 
-- **E-posta**: [Talhadurmaz175@gmail.com]
+- **E-posta**: [email@example.com]
 - **LinkedIn**: [linkedin.com/in/talha-durmaz](https://linkedin.com/in/talha-durmaz)
 - **Twitter**: [@talhadrz](https://twitter.com/talhadrz)
 
 ## Hakkımda
 
 Yazılım geliştirme, problem çözme ve yeni teknolojiler öğrenme konusunda büyük bir tutkuyum. GitHub'daki projelerimle bu tutkumu paylaşıyor ve daha fazla öğrenmeye devam ediyorum. Eğer projelerime göz atmak isterseniz, bağlantılardan faydalanabilirsiniz!
-
