@@ -28,7 +28,6 @@ Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim her geçen gün ar
 Yazılım geliştirme, problem çözme ve yeni teknolojiler öğrenme konusunda büyük bir tutkuyum. GitHub'daki projelerimle bu tutkumu paylaşıyor ve daha fazla öğrenmeye devam ediyorum. Eğer projelerime göz atmak isterseniz, bağlantılardan faydalanabilirsiniz!
 
 
-Talha durmaz 
-
+Talha durmaz
 Talha_drz
 
