@@ -26,3 +26,5 @@ Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim her geçen gün ar
 ## Hakkımda
 
 Yazılım geliştirme, problem çözme ve yeni teknolojiler öğrenme konusunda büyük bir tutkuyum. GitHub'daki projelerimle bu tutkumu paylaşıyor ve daha fazla öğrenmeye devam ediyorum. Eğer projelerime göz atmak isterseniz, bağlantılardan faydalanabilirsiniz!
+
+
