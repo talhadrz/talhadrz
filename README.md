@@ -31,6 +31,8 @@ Yazılım geliştirme, problem çözme ve yeni teknolojiler öğrenme konusunda 
 Talha durmaz
 
 Talha_drz
+
 instegram
+
 tiktok
 
