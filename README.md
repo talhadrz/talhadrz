@@ -32,7 +32,4 @@ Talha durmaz
 
 Talha_drz
 
-instegram
-
-tiktok
 
