@@ -20,8 +20,8 @@ Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim her geçen gün ar
 ## 📬 İletişim
 
 - **E-posta**: Talhadurmaz175@gmail.com
-- **LinkedIn**: [talha-durmaz](https://linkedin.com/in/talha-drz)
-- **Instagram**: [@talha_drz](https://www.instagram.com/talha_drz)
+- **LinkedIn**: [Talha](https://linkedin.com/in/talha-drz)
+- **Instagram**: [Talha](https://www.instagram.com/talha_drz)
 
 ## Hakkımda
 
